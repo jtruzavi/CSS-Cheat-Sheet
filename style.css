@@ -1,0 +1,13 @@
+/* CSS Document */
+h1 {color: red;}
+h2 {color: blue;}
+h3 {color: aqua;}
+h4 {color: beige;}
+h5 {color: palegreen;}
+h6 {color: pink;}
+p {color: blueviolet;}
+
+body {
+	background-color: #ACACAC;
+	color: #555555
+	}
